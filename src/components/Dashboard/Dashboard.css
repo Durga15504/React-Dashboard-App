@@ -1,0 +1,12 @@
+.dashboard{
+    max-width:1400px;
+    margin:auto;
+    padding:20px;
+}
+
+.dashboard-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:25px;
+    margin:25px 0;
+}
